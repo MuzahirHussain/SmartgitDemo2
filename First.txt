@@ -1,0 +1,1 @@
+Creating repo from smartgit and exporting it to github.
